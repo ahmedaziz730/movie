@@ -1,7 +1,6 @@
 {
-  "latest_version": "1.2.0",
+  "latest_version": "1.1.0",
   "minimum_version": "1.1.0",
   "release_notes": "Bug fixes and performance improvements",
-  "android_url": "https://play.google.com/store/apps/details?id=com.your.tmdb_app",
-  "ios_url": "https://apps.apple.com/us/app/your-app/id123456789"
+  "android_url": "https://play.google.com/store/apps/details?id=com.your.tmdb_app"
 }
